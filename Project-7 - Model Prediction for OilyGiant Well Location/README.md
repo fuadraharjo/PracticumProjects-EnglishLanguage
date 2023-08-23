@@ -10,3 +10,7 @@ The dataset derived from `OilyGiant` has several variables that affect the `oil 
 5. What is the `confidence interval` for that location with a `95% confidence level`?
 
 `Keywords`: oil exploration, predictive modeling, machine learning, profit margin analysis, risk analysis, bootstrapping technique
+
+| Project | Description | Library |
+| ------- | ------- | ------- |
+| [Model Prediction for OilyGiant Well Location](https://github.com/fuadraharjo/PracticumProjects-EnglishLanguage/blob/bcf167d0ddb129c17d101ca055ec41c03b0ca39c/Project-7/Predictive%20Modeling%20for%20OilyGiant%20Well%20Exploration%20Locations.ipynb) | Business analysis to reduce the risk of loss in locating exploratory wells using `machine learning` and `bootstrapping` techniques. | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn* |

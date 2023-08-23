@@ -11,3 +11,7 @@ The dataset owned by the company `Megaline` includes `'calls'`, `'internet'`, `'
 - Is it true that the highest amount of revenue from users per month belongs to the `Ultimate Plan`?
 - Is it true that the Average Income of Ultimate and Surf Prepaid Package Users is Different?
 - Is the Average Income of Users in the NY-NJ Region Different from Other Regions?
+
+| Project | Description | Library |
+| ------- | ------- | ------- |
+| [Comparison of Prepaid Packages](https://github.com/fuadraharjo/PracticumProjects-EnglishLanguage/blob/bcf167d0ddb129c17d101ca055ec41c03b0ca39c/Project-3/Prepaid%20plan%20comparison%20study%20in%20megaline%20company.ipynb) | The advertising department of `Megaline` company wanted to know which prepaid plan brought in more revenue, so they could create an appropriate advertising budget. Analysis and Hypothesis Testing were involved in this project.| *pandas*, *numpy*, *matplotlib*, *seaborn*, *math*, *scipy* |

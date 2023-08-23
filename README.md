@@ -1,6 +1,6 @@
-# Practicum Projects in English Language
+# TripleTen Projects in English Language
 
-Contains a collection of projects that have been carried out from the assignment *`Sprint Project`* `[Online Bootcamp Practicum Indonesia - Data Scientist in Indonesian]` and have been accepted by `Code Reviewer`. This project contains various types of analysis to predictions, from `Data Pre-processing`, `Visualization`, `Statistical Test`, `Hypothesis Test`, `Model Prediction`, `Score Model Test`, and so on.
+Contains a collection of projects that have been carried out from the assignment *`Sprint Project`* `[Online Bootcamp TripleTen Indonesia - Data Scientist]` and have been accepted by `Code Reviewer`. This project contains various types of analysis to predictions, from `Data Pre-processing`, `Visualization`, `Exploratory Data Analysis (EDA)`, `Statistical Test`, `Hypothesis Test`, `Machine Learning`, `Score Model Test`, `Computer Vision`, `Linear Algebra`, `Numerical Method`, `Time Series`, `Natural Language Processing`, and so on.
 
 Please select or use the directory above:
 

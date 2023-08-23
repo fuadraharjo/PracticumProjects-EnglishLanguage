@@ -6,3 +6,7 @@ A company called Zuber engaged in `ride-sharing` is a new company launched in Ch
 - Find out which favorite locations (`dropoff_location`) users visited during November 2017
 - Knowing the distribution of data from the average trip at each drop-off location during November 2017
 - Testing the hypothesis: Is it true that the average trip duration from the Loop to O'Hare International Airport changes on rainy Saturdays
+
+| Project | Description | Library |
+| ------- | ------- | ------- |
+| [Use of Trip Taxi Services](https://github.com/fuadraharjo/PracticumProjects-EnglishLanguage/blob/bcf167d0ddb129c17d101ca055ec41c03b0ca39c/Project-4/Trip%20analysis%20of%20taxi%20service%20users.ipynb) | Analysis of the preferences of taxi users from the Zuber company on several factors such as `dropoff location`, `company name` and hypothesis testing using *scipy*. | *pandas*, *numpy*, *matplotlib*, *seaborn*, *re*, *scipy*, *SQL*, *requests* *bs4*  |

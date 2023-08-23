@@ -11,3 +11,7 @@ Some of the goals and formulation of the problem for this project include:
 - How many features/parameters can be reduced?
 - Among the following types of `model machine learning`: `linear regression`, `random forest`, and `K-Nearest neighbors`. Which gives the best results using the SMAPE `cross-validation` scoring technique?
 - What is the `SMAPE` score produced by the `best model` in the `test` dataset?
+
+| Project | Description | Library |
+| ------- | ------- | ------- |
+| [Model Prediction for Gold Ore Extractions](https://github.com/fuadraharjo/PracticumProjects-EnglishLanguage/blob/27f87b0089338b8da967337094eae85c1352d6d1/Project-8%20-%20Gold%20ore%20extraction%20prediction%20model/Gold%20ore%20extraction%20prediction%20model.ipynb) | Exploratory Data Analysis (EDA) and Model Prediction Using Cross-Validation Technique with SMAPE (Symmetric Mean Absolute Percentage Error) Score. | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn* |

@@ -15,3 +15,7 @@ Some of the hypotheses proposed to find out the 'Car Sales Price Factor' include
 - Is it true that `suv` cars with `manual` transmission types have a higher selling price compared to other types of transmissions?
 - Is it true that a `sedan` car with a `red` color type has a higher selling price compared to other colors?
 - Is it true that `suv` cars with `orange` color type have a higher selling price compared to other colors?
+
+| Project | Description | Library |
+| ------- | ------- | ------- |
+| [Car Sales Factor](https://github.com/fuadraharjo/PracticumProjects-EnglishLanguage/blob/bcf167d0ddb129c17d101ca055ec41c03b0ca39c/Project-2/Factors%20Influencing%20Car%20Selling%20Prices.ipynb) | Analysis of the factors that affect the selling price of a car. Some of the factors include `model_year`, `model`, `condition`, `cylinders`, `fuel`, `odometer`, `transmission`, `type`, `paint_color`, `is_4wd`. | *pandas*, *numpy*, *matplotlib*, *seaborn* |

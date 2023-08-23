@@ -12,3 +12,7 @@ Some of the objectives and formulation of the problem from this project analysis
 - What is the best `Hyperparameter` in `machine learning` models
 - Does the selected `machine learning model` meet the `sanity check`?
 - Is it true that the selected `machine learning model` can test arbitrary data samples?
+
+| Project | Description | Library |
+| ------- | ------- | ------- |
+| [Model Prediction for Cellular Package](https://github.com/fuadraharjo/PracticumProjects-EnglishLanguage/blob/bcf167d0ddb129c17d101ca055ec41c03b0ca39c/Project-5/User%20cellular%20package%20prediction%20model%20using%20machine%20learning.ipynb) | Create a classification prediction model to determine suitable cellular packages for customers using libraries from *`scikit-learn`*. | *pandas*, *sklearn* |
