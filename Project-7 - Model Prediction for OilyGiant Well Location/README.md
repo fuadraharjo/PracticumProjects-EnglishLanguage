@@ -13,4 +13,4 @@ The dataset derived from `OilyGiant` has several variables that affect the `oil 
 
 | Project | Description | Library |
 | ------- | ------- | ------- |
-| [Model Prediction for OilyGiant Well Location](https://github.com/fuadraharjo/PracticumProjects-EnglishLanguage/blob/bcf167d0ddb129c17d101ca055ec41c03b0ca39c/Project-7/Predictive%20Modeling%20for%20OilyGiant%20Well%20Exploration%20Locations.ipynb) | Business analysis to reduce the risk of loss in locating exploratory wells using `machine learning` and `bootstrapping` techniques. | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn* |
+| [Model Prediction for OilyGiant Well Location](https://github.com/fuadraharjo/TripleTen_ENG/blob/main/Project-7%20-%20Model%20Prediction%20for%20OilyGiant%20Well%20Location/Model%20prediction%20for%20OilyGiant%20well%20exploration%20locations%20using%20bootstrap%20and%20machine%20learning.ipynb) | Business analysis to reduce the risk of loss in locating exploratory wells using `machine learning` and `bootstrapping` techniques. | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn* |

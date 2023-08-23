@@ -9,4 +9,4 @@ A company called Zuber engaged in `ride-sharing` is a new company launched in Ch
 
 | Project | Description | Library |
 | ------- | ------- | ------- |
-| [Use of Trip Taxi Services](https://github.com/fuadraharjo/PracticumProjects-EnglishLanguage/blob/bcf167d0ddb129c17d101ca055ec41c03b0ca39c/Project-4/Trip%20analysis%20of%20taxi%20service%20users.ipynb) | Analysis of the preferences of taxi users from the Zuber company on several factors such as `dropoff location`, `company name` and hypothesis testing using *scipy*. | *pandas*, *numpy*, *matplotlib*, *seaborn*, *re*, *scipy*, *SQL*, *requests* *bs4*  |
+| [Use of Trip Taxi Services](https://github.com/fuadraharjo/TripleTen_ENG/blob/main/Project-4%20-%20Use%20of%20Trip%20Taxi%20Services/Trip%20analysis%20of%20taxi%20service%20users.ipynb) | Analysis of the preferences of taxi users from the Zuber company on several factors such as `dropoff location`, `company name` and hypothesis testing using *scipy*. | *pandas*, *numpy*, *matplotlib*, *seaborn*, *re*, *scipy*, *SQL*, *requests* *bs4*  |
