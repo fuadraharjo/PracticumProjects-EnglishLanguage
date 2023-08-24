@@ -9,4 +9,4 @@ A fictitious `social insurance` company based on `sharia` named "Sure Tomorrow" 
 
 | Projek | Deskripsi | Modul |
 | ------- | ------- | ------- |
-| [Model Prediksi Klaim Asuransi]() | Model Prediksi `Klaim Asuransi` pada `Perusahaan Asuransi` Berbasis `Syariah` menggunakan Algoritma `K-Nearest Neighbor` dan `Linear Regression`. Pengaburan Data (`Data Protection`) Dilakukan untuk Menjaga Privasi Klien Jika Terjadi Kebocoran Data. | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn*, *math*, $\LaTeX$ |
+| [Model Prediksi Klaim Asuransi](https://github.com/fuadraharjo/TripleTen_ENG/blob/main/Project-9%20-%20Model%20Prediction%20for%20Insurance%20Claim/Model%20prediction%20for%20insurance%20claim%20in%20sharia-based%20insurance%20company.ipynb) | Model Prediction for `Insurance Claim` in `Sharia-Based Insurance Company` uses the `K-Nearest Neighbor` and `Linear Regression` Algorithms. Data Obfuscation (`Data Protection`) Is Performed to Maintain Client Privacy in the Case of Data Leak. | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn*, *math*, $\LaTeX$ |
