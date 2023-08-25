@@ -18,4 +18,4 @@ Some of the hypotheses proposed to find out the 'Car Sales Price Factor' include
 
 | Project | Description | Library |
 | ------- | ------- | ------- |
-| [Car Sales Factor](https://github.com/fuadraharjo/TripleTen_ENG/blob/main/Project-2%20-%20Car%20Sales%20Factor/Factors%20Influencing%20Car%20Selling%20Prices.ipynb) | Analysis of the factors that affect the selling price of a car. Some of the factors include `model_year`, `model`, `condition`, `cylinders`, `fuel`, `odometer`, `transmission`, `type`, `paint_color`, `is_4wd`. | *pandas*, *numpy*, *matplotlib*, *seaborn* |
+| [Car Sales Factor](https://github.com/fuadraharjo/TripleTen_ENG/blob/main/Project-02%20-%20Car%20Sales%20Factor/Factors%20Influencing%20Car%20Selling%20Prices.ipynb) | Analysis of the factors that affect the selling price of a car. Some of the factors include `model_year`, `model`, `condition`, `cylinders`, `fuel`, `odometer`, `transmission`, `type`, `paint_color`, `is_4wd`. | *pandas*, *numpy*, *matplotlib*, *seaborn* |

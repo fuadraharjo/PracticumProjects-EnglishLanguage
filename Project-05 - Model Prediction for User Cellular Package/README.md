@@ -15,4 +15,4 @@ Some of the objectives and formulation of the problem from this project analysis
 
 | Project | Description | Library |
 | ------- | ------- | ------- |
-| [Model Prediction for Cellular Package](https://github.com/fuadraharjo/TripleTen_ENG/blob/main/Project-5%20-%20Model%20Prediction%20for%20User%20Cellular%20Package/User%20cellular%20package%20prediction%20model%20using%20machine%20learning.ipynb) | Create a classification prediction model to determine suitable cellular packages for customers using libraries from *`scikit-learn`*. | *pandas*, *sklearn* |
+| [Model Prediction for Cellular Package](https://github.com/fuadraharjo/TripleTen_ENG/blob/main/Project-05%20-%20Model%20Prediction%20for%20User%20Cellular%20Package/User%20cellular%20package%20prediction%20model%20using%20machine%20learning.ipynb) | Create a classification prediction model to determine suitable cellular packages for customers using libraries from *`scikit-learn`*. | *pandas*, *sklearn* |

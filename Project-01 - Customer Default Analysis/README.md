@@ -10,4 +10,4 @@ The main objective is to find out how big the risk of 'Default Paying' is carrie
 
 | Project | Description | Library |
 | ------- | ------- | ------- |
-| [Customer Default Analysis](https://github.com/fuadraharjo/TripleTen_ENG/blob/main/Project-1%20-%20Customer%20Default%20Analysis/Default%20risk%20analysis%20-%20Islamic%20bank.ipynb) | Find out how big a customer's `Default` risk is based on the criteria: `Income Level`, `Family Status`, `Instalment Purpose` and `Number of Children` to assess potential customers. | *pandas*, *numpy* |
+| [Customer Default Analysis](https://github.com/fuadraharjo/TripleTen_ENG/blob/main/Project-01%20-%20Customer%20Default%20Analysis/Default%20risk%20analysis%20-%20Islamic%20bank.ipynb) | Find out how big a customer's `Default` risk is based on the criteria: `Income Level`, `Family Status`, `Instalment Purpose` and `Number of Children` to assess potential customers. | *pandas*, *numpy* |
