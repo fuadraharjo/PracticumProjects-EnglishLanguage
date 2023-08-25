@@ -7,6 +7,6 @@ A fictitious `social insurance` company based on `sharia` named "Sure Tomorrow" 
 - Task 3: Predict the amount of `insurance claims` that `new clients` might receive using a `linear regression` model.
 - Task 4: Protect client `private data` without breaking the model from the previous task. It is essential to develop data `transformation algorithms` that can prevent misuse of clients' personal information if it falls into the wrong hands. This is called `data hiding` or `data obfuscation`. However, it is also necessary to pay attention to the data protection procedures so that the quality of the *machine* learning model does not decrease.
 
-| Projek | Deskripsi | Modul |
+| Project | Description | Library |
 | ------- | ------- | ------- |
 | [Model Prediksi Klaim Asuransi](https://github.com/fuadraharjo/TripleTen_ENG/blob/main/Project-09%20-%20Model%20Prediction%20for%20Insurance%20Claim/Model%20prediction%20for%20insurance%20claim%20in%20sharia-based%20insurance%20company.ipynb) | Model Prediction for `Insurance Claim` in `Sharia-Based Insurance Company` uses the `K-Nearest Neighbor` and `Linear Regression` Algorithms. Data Obfuscation (`Data Protection`) Is Performed to Maintain Client Privacy in the Case of Data Leak. | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn*, *math*, $\LaTeX$ |
