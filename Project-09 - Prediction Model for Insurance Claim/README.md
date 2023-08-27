@@ -1,4 +1,4 @@
-### Model Prediction for Insurance Claim in Sharia-Based Insurance Company
+### Prediction Model for Insurance Claim in Sharia-Based Insurance Company
 
 A fictitious `social insurance` company based on `sharia` named "Sure Tomorrow" wants to solve some problems with the help of *machine learning*. This company, wants to create a model that can predict whether their prospective clients as `beneficiaries of insurance` or as `insurance donors`. The company's profits are obtained from the services offered to `insurance donors`, this company wants to create a balance between `beneficiaries of insurance` and `insurance donors` so that the company's operations continue. Companies have dataset to train models based on their prospective clients personal information such as `gender`, `age`, `income`, `family_members`, and `insurance_benefits`. Some of the tasks that the `model` must be able to complete the tasks below:
 
@@ -9,4 +9,4 @@ A fictitious `social insurance` company based on `sharia` named "Sure Tomorrow" 
 
 | Project | Description | Library |
 | ------- | ------- | ------- |
-| [Model Prediksi Klaim Asuransi](https://github.com/fuadraharjo/TripleTen_ENG/blob/main/Project-09%20-%20Model%20Prediction%20for%20Insurance%20Claim/Model%20prediction%20for%20insurance%20claim%20in%20sharia-based%20insurance%20company.ipynb) | Model Prediction for `Insurance Claim` in `Sharia-Based Insurance Company` uses the `K-Nearest Neighbor` and `Linear Regression` Algorithms. Data Obfuscation (`Data Protection`) Is Performed to Maintain Client Privacy in the Case of Data Leak. | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn*, *math*, $\LaTeX$ |
+| [Prediction Model for Insurance Claim ]() | Model prediction for `insurance claim` in `sharia-based insurance company` uses the `k-nearest neighbor` and `linear regression` algorithms. data obfuscation (`data protection`) is performed to maintain client privacy in the case of data leak. | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn*, *math*, $\LaTeX$ |

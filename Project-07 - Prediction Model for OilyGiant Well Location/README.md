@@ -1,4 +1,4 @@
-### Predictive Modeling for OilyGiant Well Exploration Locations
+### Prediction Model for OilyGiant Well Exploration Locations
 
 A company named `OilyGiant` wants to explore oil in three areas. We are asked to determine which locations are suitable for exploration by taking into account their business aspects so as not to experience/reduce potential losses with a risk threshold below `2.5%` and obtain high profits. `OilyGiant` has a capital of `100 Million USD` with a `per barrel` price of oil is about `4.5 USD`.
 
@@ -13,4 +13,4 @@ The dataset derived from `OilyGiant` has several variables that affect the `oil 
 
 | Project | Description | Library |
 | ------- | ------- | ------- |
-| [Model Prediction for OilyGiant Well Location](https://github.com/fuadraharjo/TripleTen_ENG/blob/main/Project-07%20-%20Model%20Prediction%20for%20OilyGiant%20Well%20Location/Model%20prediction%20for%20OilyGiant%20well%20exploration%20locations%20using%20bootstrap%20and%20machine%20learning.ipynb) | Business analysis to reduce the risk of loss in locating exploratory wells using `machine learning` and `bootstrapping` techniques. | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn* |
+| [Prediction Model for OilyGiant Well Location]() | Business analysis to reduce the risk of loss in locating exploratory wells using `machine learning` and `bootstrapping` techniques. | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn* |

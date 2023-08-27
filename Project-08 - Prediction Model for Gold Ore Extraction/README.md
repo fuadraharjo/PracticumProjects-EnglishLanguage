@@ -14,4 +14,4 @@ Some of the goals and formulation of the problem for this project include:
 
 | Project | Description | Library |
 | ------- | ------- | ------- |
-| [Model Prediction for Gold Ore Extractions](https://github.com/fuadraharjo/TripleTen_ENG/blob/main/Project-08%20-%20Model%20Prediction%20for%20Gold%20Ore%20Extraction/Model%20prediction%20for%20gold%20ore%20extraction.ipynb) | Exploratory Data Analysis (EDA) and Model Prediction Using Cross-Validation Technique with SMAPE (Symmetric Mean Absolute Percentage Error) Score. | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn* |
+| [Prediction Model for Gold Ore Extractions]() | Exploratory data analysis (EDA) and model prediction using cross-validation technique with SMAPE (symmetric mean absolute percentage error) score. | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn* |

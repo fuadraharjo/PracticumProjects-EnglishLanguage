@@ -14,4 +14,4 @@ We will test several well-known models using the dataset we have to determine th
 
 | Project | Description | Library |
 | ------- | ------- | ------- |
-| [Model Prediction for Used Car Price Using Boosting Technique](https://github.com/fuadraharjo/TripleTen_ENG/blob/main/Project-10%20-%20Used%20Car%20Price%20Prediction%20Using%20Boosting/Used%20car%20price%20prediction%20using%20boosting%20machine%20learning%20technique.ipynb) | Comparison of `Boosting Models` for Predict `Used Car Prices` by Minimizing `RMSE` Scores and `Compute Time` | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn*, *XGBoost*, *time*, *LightGBM*, *CatBoost* |
+| [Prediction Model for Used Car Price Using Boosting Technique]() | Comparison of `boosting models` for predict `used car prices` by minimizing `RMSE` scores and `compute time` | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn*, *XGBoost*, *time*, *LightGBM*, *CatBoost* |
