@@ -14,4 +14,4 @@ The dataset owned by the company `Megaline` includes `'calls'`, `'internet'`, `'
 
 | Project | Description | Library |
 | ------- | ------- | ------- |
-| [Comparison of Prepaid Packages](https://github.com/fuadraharjo/TripleTen_ENG/blob/main/Project-03%20-%20Comparison%20of%20Prepaid%20Packages/Prepaid%20plan%20comparison%20study%20in%20megaline%20company.ipynb) | The advertising department of `Megaline` company wanted to know which prepaid plan brought in more revenue, so they could create an appropriate advertising budget. Analysis and Hypothesis Testing were involved in this project.| *pandas*, *numpy*, *matplotlib*, *seaborn*, *math*, *scipy* |
+| [Comparison of Prepaid Packages](https://github.com/fuadraharjo/TripleTen_ENG/blob/main/Project-03%20-%20Comparison%20of%20Prepaid%20Packages/Prepaid%20plan%20comparison%20study%20in%20megaline%20company.ipynb) | The advertising department of `megaline` company wanted to know which prepaid plan brought in more revenue, so they could create an appropriate advertising budget. Analysis and hypothesis testing were involved in this project.| *pandas*, *numpy*, *matplotlib*, *seaborn*, *math*, *scipy* |
