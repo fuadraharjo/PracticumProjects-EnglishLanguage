@@ -15,4 +15,4 @@ Some of the objectives and formulation of the problem from this project analysis
 
 | Project | Description | Library |
 | ------- | ------- | ------- |
-| [Prediction Model for Customer Churn]() | The classification prediction model to determine which customers will `churn` uses the `scikit-learn` module and applies techniques such as `one hot encoding (OHE)`, `scaling features` and `balancing target`. | *pandas*, *sklearn*, *matplotlib*, *seaborn* |
+| [Prediction Model for Customer Churn](https://github.com/fuadraharjo/TripleTen_ENG/blob/main/Project-06%20-%20Prediction%20Model%20for%20Customer%20Churn/Prediction%20model%20for%20bank%20customer%20churn%20using%20machine%20learning.ipynb) | The classification prediction model to determine which customers will `churn` uses the `scikit-learn` module and applies techniques such as `one hot encoding (OHE)`, `scaling features` and `balancing target`. | *pandas*, *sklearn*, *matplotlib*, *seaborn* |
