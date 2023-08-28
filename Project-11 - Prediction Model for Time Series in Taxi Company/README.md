@@ -9,4 +9,4 @@ A taxi company called `Sweet Lift` has collected historical data (`time series`)
 
 | Project | Description | Library |
 | ------- | ------- | ------- |
-| [Prediction Model of Time Series in Taxi Company]() | Comparison of `machine learning` models for predicting `order amount` of taxi company using `time series dataset` to get `RMSE` scores that are `not greater than 48` | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn*, *XGBoost*, *time*, *LightGBM*, *statsmodels* |
+| [Prediction Model of Time Series in Taxi Company](https://github.com/fuadraharjo/TripleTen_ENG/blob/main/Project-11%20-%20Prediction%20Model%20for%20Time%20Series%20in%20Taxi%20Company/Prediction%20model%20of%20time%20series%20for%20knowing%20the%20number%20of%20taxi%20company%20orders.ipynb) | Comparison of `machine learning` models for predicting `order amount` of taxi company using `time series dataset` to get `RMSE` scores that are `not greater than 48` | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn*, *XGBoost*, *time*, *LightGBM*, *statsmodels* |
