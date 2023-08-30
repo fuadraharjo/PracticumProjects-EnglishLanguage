@@ -1,0 +1,7 @@
+### ResNet50 Computer Vision for Determining the Age of a Person in Franchise Company
+
+A `supermarket franchise` named `Good Seed` wanted to see if `Data Science` could help them comply with the law by ensuring that they did not sell `age-restricted` products to `underage` customers. The shops of this franchise are equipped with a camera in the cashier area that will display a signal when someone buys a product with an `'age limit'`. The `computer vision` method can be used to determine the `age of a person` from `photo`. We will build and train a model to complete this project using `deep learning`. We will use the popular `Convolutional Neural Network (CNN)` to recognize a photo namely `ResNet50` using parameters from `imagenet`. The metrics used for model evaluation include the `loss` metric is `MSE`, and the `scoring` metric is `MAE`. To get a model with good quality, the `MAE-validation` metric must be below `8`.
+
+| Project | Description | Library |
+| ------- | ------- | ------- |
+| [Computer Vision Using ResNet50]() | Created a `deep learning - CNN` model using `ResNet50` to determine the `age of a person` based on a photo. The metrics for model evaluation include the `loss` metric is `MSE`, and the `scoring` metric is `MAE`. The score for `MAE-validation` must be below `8`. | *pandas*, *matplotlib*, *seaborn*, *tensorflow*, *keras*, *ResNet50* |
