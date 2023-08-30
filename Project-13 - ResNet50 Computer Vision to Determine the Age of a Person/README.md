@@ -4,4 +4,4 @@ A `supermarket franchise` named `Good Seed` wanted to see if `Data Science` coul
 
 | Project | Description | Library |
 | ------- | ------- | ------- |
-| [Computer Vision Using ResNet50]() | Created a `deep learning - CNN` model using `ResNet50` to determine the `age of a person` based on a photo. The metrics for model evaluation include the `loss` metric is `MSE`, and the `scoring` metric is `MAE`. The score for `MAE-validation` must be below `8`. | *pandas*, *matplotlib*, *seaborn*, *tensorflow*, *keras*, *ResNet50* |
+| [Computer Vision Using ResNet50](https://github.com/fuadraharjo/TripleTen_ENG/blob/main/Project-13%20-%20ResNet50%20Computer%20Vision%20to%20Determine%20the%20Age%20of%20a%20Person/ResNet50%20computer%20vision%20for%20determining%20the%20age%20of%20a%20person%20in%20a%20franchise%20company.ipynb) | Created a `deep learning - CNN` model using `ResNet50` to determine the `age of a person` based on a photo. The metrics for model evaluation include the `loss` metric is `MSE`, and the `scoring` metric is `MAE`. The score for `MAE-validation` must be below `8`. | *pandas*, *matplotlib*, *seaborn*, *tensorflow*, *keras*, *ResNet50* |
